@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/FuckWXgetConfiguredNetworks/app/build.gradle",
+      "selection": {
+        "end": {
+          "column": 26,
+          "index": 88,
+          "line": 7
+        },
+        "start": {
+          "column": 19,
+          "index": 81,
+          "line": 7
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/FuckWXgetConfiguredNetworks/app/build.gradle"
+}
